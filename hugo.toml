@@ -1,0 +1,5 @@
+baseURL = 'https://zzyhao0w0.github.io/blog/'
+languageCode = 'zh-CN'
+title = "Zyh's BLOG"
+theme = 'nostyleplease'
+
